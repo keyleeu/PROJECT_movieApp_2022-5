@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Movie App
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me4n-lee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
